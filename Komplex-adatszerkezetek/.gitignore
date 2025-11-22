@@ -1,0 +1,4 @@
+# Ignore all PDF files to avoid upload course notes which is forbidden.
+*.pdf
+*.jpeg
+tf_gpu_env/*
